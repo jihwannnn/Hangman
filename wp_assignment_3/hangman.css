@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Edu+NSW+ACT+Foundation:wght@400..700&family=Poetsen+One&display=swap');
+/* font-family: "Poetsen One", sans-serif; */
+
+body {
+    font-family: "Poetsen One", sans-serif;
+    text-align: center;
+}
+
+#title {
+    font-size: 50px;
+}
+
+#instructions {
+    color: crimson;
+    font-size: 30px;
+}
+
+#word {
+    font-size: 25px;
+}
+
+#play_area {
+    margin-top: 30px;
+}
+
+#letters {
+    margin-bottom: 50px;
+}
+
+#hangman_canvas {
+    width: 300px;
+    height: 200px;
+}
+
