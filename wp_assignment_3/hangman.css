@@ -28,7 +28,10 @@ body {
 }
 
 #hangman_canvas {
-    width: 300px;
-    height: 200px;
+    width: 400px;
+    height: 250px;
 }
 
+.pushed{
+    background-color: red;
+}
